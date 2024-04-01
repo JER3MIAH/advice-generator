@@ -283,8 +283,14 @@ section {
   display: flex;
 }
 
+.circle-profile {
+  border-radius: 12rem;
+}
+
 .about-pic {
   border-radius: 2rem;
+  height: 280px;
+  width: 380px;
 }
 
 .arrow {
