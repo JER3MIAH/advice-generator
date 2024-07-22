@@ -25,7 +25,10 @@ Generate a random advice with every click with this Advice Generator App.
 
 <img src="images/design/desktop-design.jpg" width="400" alt="desktop view" /> <img src="images/design/active-state.jpg" width="400" alt="desktop active view" />
 <br />
-<img src="images/design/mobile-design.jpg" width="200" alt="mobile view" />
+
+<p align="center">
+ <img src="images/design/mobile-design.jpg" width="200" alt="mobile view" />
+</p>
 
 ### Acknowledgements
 
